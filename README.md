@@ -9,7 +9,7 @@ Joining the bike usage data with weather data from [Kaggle](https://www.kaggle.c
 #### Methods
 The dataset used for this project was very large, and scaled up rapidy as additional varibles were created.
 
-I managed the import of data by using SQLite, and randomly sampling the import to speed up computation. The status file wasn particularly large, so that import was handled in chunks, and the chunks were sampled individually. 
+I managed the import of data by using SQLite, and randomly sampling the import to speed up computation. The status file in particular was quite large, so that import was handled in chunks, and the chunks were sampled individually. 
 
 Disparate data sets were merged in Python, using the Pandas package. The weather dataset was pretty messy, so missing and duplicate data had to be dealt with using a combination of methods. 
 

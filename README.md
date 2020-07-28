@@ -1,5 +1,5 @@
 # Bike Availability in the SFMTA Bikeshare System
-## Neural Net Machine Learning for Regression
+## Neural Network Machine Learning for Regression
 
 #### Motivation
 One of the benefits of the advancement of dockless bikeshare programs is that no individual station can be void of bikes to check out, or full of bikes, preventing a check in. However, dock-based bikeshare systems are still commonplace throughout the country, and due to the large capital investment they required, will liekly remain so for some time. San Francisco MTA runs one of the largest dock-based bikeshare systems in the country, and has made data about its usage [publicaly available](https://www.sfmta.com/getting-around/bike/bike-share#Bikeshare%20Data). 
